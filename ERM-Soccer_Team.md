@@ -48,5 +48,9 @@ Um estádio pode receber várias partidas. Para cada estádio devem ser armazena
 
 ## **5 - MODELO CONCEITUAL**
 
+![Conceptual Model](/Models/Conceptual%20Model.png)
+
+## **6 - MODELO LÓGICO**
+
 
 
