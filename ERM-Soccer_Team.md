@@ -9,6 +9,9 @@
 
 **Professor:** Anderson Soares
 
+## **3 - TECNOLOGIAS UTILIZADAS**
+    SQL, PostgreeSQL, BRModeloWeb, DBeaver, Git, Github
+
 ## **3 - DESCRIÇÃO DO CENÁRIO**
 
 Uma empresa deseja desenvolver um sistema para gerenciar campeonatos de futebol.
@@ -48,10 +51,17 @@ Um estádio pode receber várias partidas. Para cada estádio devem ser armazena
 
 ## **5 - MODELO CONCEITUAL**
 
-![Modelo Conceitual](/Models/Conceptual%20Model.png)
+![Conceptual Model](/Models/Conceptual%20Model(PT).png)
 
 ## **6 - MODELO LÓGICO**
 
-![Modelo Lógico](/Models/Logic%20Model.png)
+![Logic Model](/Models/Logic%20Model(PT).png)
 
-## **7 - **
+## **7 - EVIDÊNCIAS**
+
+![Evidence - 1](/Evidence/Evidence%20-%201.png)
+![Evidence - 2](/Evidence/Evidence%20-%202.png)
+![Evidence - 3](/Evidence/Evidence%20-%203.png)
+
+
+
