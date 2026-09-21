@@ -1,0 +1,8 @@
+ALTER TABLE stadium 
+ADD COLUMN State VARCHAR(60) NOT NULL
+
+ALTER TABLE player 
+RENAME COLUMN Position TO Soccer_Position
+
+ALTER TABLE soccermatch 
+ADD COLUMN Duration TIMESTAMP NOT NULL
