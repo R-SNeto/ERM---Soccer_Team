@@ -54,5 +54,4 @@ Um estádio pode receber várias partidas. Para cada estádio devem ser armazena
 
 ![Modelo Lógico](/Models/Logic%20Model.png)
 
-
-
+## **7 - **
